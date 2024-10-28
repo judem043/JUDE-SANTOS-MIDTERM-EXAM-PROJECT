@@ -116,7 +116,7 @@ $users = getAllUsers($pdo);
 </tbody>
         </table>
         
-        <a href="index.php" class="back-button">Back to Car List</a> <!-- Styled back button -->
+        <a href="index.php" class="back-button">Back to Car List</a>
     </div>
 </body>
 </html>
